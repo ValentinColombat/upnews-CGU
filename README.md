@@ -1,0 +1,2 @@
+# upnews-CGU
+UpNews CGU
